@@ -23,6 +23,10 @@ Se responder:
 Se não responder:
 - Verificar rede
 
+![Teste de conectividade] (../images/Ping8-8-8-8.jpg)
+
+
+
 ### 3. Verificar IP
 
 ```cmd
