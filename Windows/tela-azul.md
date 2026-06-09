@@ -46,11 +46,11 @@ sfc /scannow
 
 ## Verficação de integridade do Sistema
 
-Execução de utilitário 'sfc /scannow' para identificação e correção de arquivos corrompidos do Windows.
+Execução de utilitário `sfc /scannow` para identificação e correção de arquivos corrompidos do Windows.
 
 ## Resultado da verificação
 
-![SFC Scan](../images/sfc-scan-success.png)
+![SFC Scan](../images/sfc-scan.jpg)
 
 > Objetivo: Validadar a integridade dos arquivos do sistema operacional.
 
