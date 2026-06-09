@@ -23,8 +23,7 @@ Se responder:
 Se não responder:
 - Verificar rede
 
-![Teste de conectividade] (../images/Ping8-8-8-8.jpg)
-
+![Teste de conectividade](../images/Ping8-8-8-8.jpg)
 
 
 ### 3. Verificar IP
@@ -43,6 +42,7 @@ Verificar:
 ipconfig /release
 ipconfig /renew
 ```
+![Configuração IP](../images/flushdns.jpg)
 
 ### 5. Resetar rede
 
@@ -50,6 +50,9 @@ ipconfig /renew
 netsh winsock reset
 netsh int ip reset
 ```
+![IP Reset1](../images/ip-reset1.jpg)
+![IP Reset2](../images/ip-reset2.jpg)
+
 
 ## Solução
 Após resetar rede, reiniciar computador.

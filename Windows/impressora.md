@@ -10,6 +10,8 @@ Impressora não imprime.
 - Impressora ligada
 - Rede conectada (Wi-Fi)
 
+![Impressoras instaladas](../images/printers-installed.jpg)
+
 ### 2. Reiniciar spooler de impressão
 
 Abrir CMD:
@@ -18,9 +20,12 @@ Abrir CMD:
 net stop spooler
 net start spooler
 ```
+![Verificação de instalação](../images/spooler-reset.jpg)
 
 ### 3. Verificar fila de impressão
 Configurações → Impressoras → Abrir fila
+
+
 
 ### 4. Reinstalar driver
 Remover impressora e instalar novamente.

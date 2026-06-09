@@ -36,6 +36,7 @@ prefetch
 ```cmd
 sfc /scannow
 ```
+![Verificação de integridade](../images/sfc-scan.jpg)
 
 ## Solução
 Reiniciar equipamento após manutenção.

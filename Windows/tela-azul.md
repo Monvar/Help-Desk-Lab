@@ -15,12 +15,15 @@ Exemplo:
 ```cmd
 mdsched.exe
 ```
+![Escaneamento de memória](../images/memory-diagnostic.jpg)
 
 ### 3. Verificar arquivos corrompidos
 
 ```cmd
 sfc /scannow
 ```
+
+![SFC Scan](../images/sfc-scan-success.png)
 
 ### 4. Verificar disco
 
